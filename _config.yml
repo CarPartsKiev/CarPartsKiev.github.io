@@ -1,0 +1,8 @@
+title: Интернет магазин автозапчастей в Киеве
+description: Продажа оригинальных и неоригинальных запчастей на американские, европейские и японские автомобили.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-midnight
+
+gems:
+  - jekyll-mentions
