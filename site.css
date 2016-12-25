@@ -211,6 +211,7 @@ ul > li {
 	   padding-top: 160px;
 	   text-align: center;
 	   color: #fff;
+	   text-shadow: 4px 4px 8px #000;
 	}
 
 	.main-info .info .text h1 {
