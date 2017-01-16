@@ -159,7 +159,6 @@ ul > li {
     font-size: 16px;
 }
 
-<<<<<<< HEAD
 @media all and (max-width: 599px) {
     .content {
         width: 360px;
@@ -167,9 +166,6 @@ ul > li {
 }
 
 @media all and (min-width: 600px) and (max-width: 959px) {
-=======
-@media all and (max-width: 959px) {
->>>>>>> origin/master
     .content {
         width: 600px;
     }
@@ -204,10 +200,7 @@ ul > li {
 
     .header .tel ul.address-items {
         margin-top: 0;
-<<<<<<< HEAD
         margin-right: 0;
-=======
->>>>>>> origin/master
     }
 
     .header .tel ul.address-items > li.address-item {
@@ -220,7 +213,6 @@ ul > li {
         margin-right: 9px;
     }
 
-<<<<<<< HEAD
 @media all and (max-width: 599px) {
     .header .tel {
         display: block;
@@ -239,9 +231,6 @@ ul > li {
 }
 
 @media all and (min-width: 600px) and (max-width: 959px) {
-=======
-@media all and (max-width: 959px) {
->>>>>>> origin/master
     .header .tel {
         display: block;
         float: right;
@@ -291,7 +280,6 @@ ul > li {
         font-size: 1.5rem;
     }
 
-<<<<<<< HEAD
 @media all and (max-width: 599px) {
     .main-info .info {
         background-size: initial;
@@ -317,9 +305,6 @@ ul > li {
 }
 
 @media all and (min-width: 600px) and (max-width: 959px) {
-=======
-@media all and (max-width: 959px) {
->>>>>>> origin/master
     .main-info .info {
         width: 600px;
     }
@@ -469,7 +454,6 @@ ul.address-items > li.address-item.border {
         max-width: 90%;
     }
 
-<<<<<<< HEAD
 @media all and (max-width: 599px) {
     .about {
         padding: 20px 0 20px;
@@ -536,9 +520,6 @@ ul.address-items > li.address-item.border {
 }
 
 @media all and (min-width: 600px) and (max-width: 959px) {
-=======
-@media all and (max-width: 959px) {
->>>>>>> origin/master
     .about {
         padding: 40px 0 40px;
     }
@@ -721,7 +702,6 @@ ul.address-items > li.address-item.border {
     padding-top: 90px;
 }
 
-<<<<<<< HEAD
 .map .address-divider {
     display: none;
     float: left;
@@ -747,9 +727,6 @@ ul.address-items > li.address-item.border {
 }
 
 @media all and (min-width: 600px) and (max-width: 959px) {
-=======
-@media all and (max-width: 959px) {
->>>>>>> origin/master
     .map .map-google {
         width: 600px;
     }
@@ -799,7 +776,6 @@ ul.menu-tags {
     text-transform: uppercase;
 }
 
-<<<<<<< HEAD
 @media all and (max-width: 599px) {
     .menu-col .menu-subcol {
         width: 100%;
@@ -816,9 +792,6 @@ ul.menu-tags {
 }
 
 @media all and (min-width: 600px) and (max-width: 959px) {
-=======
-@media all and (max-width: 959px) {
->>>>>>> origin/master
     .menu-col .menu-subcol {
         width: 100%;
     }
@@ -872,11 +845,7 @@ ul.menu-tags {
     text-align: center;
 }
 
-<<<<<<< HEAD
 @media all and (min-width: 600px) and (max-width: 959px) {
-=======
-@media all and (max-width: 959px) {
->>>>>>> origin/master
     .contacts {
         display: block;
     }
@@ -894,7 +863,6 @@ ul.menu-tags {
     padding: 25px 0;
 }
 
-<<<<<<< HEAD
 @media all and (max-width: 599px) {
     .copyright {
         margin-bottom: 40px;
@@ -903,7 +871,5 @@ ul.menu-tags {
     }
 }
 
-=======
->>>>>>> origin/master
 
 
