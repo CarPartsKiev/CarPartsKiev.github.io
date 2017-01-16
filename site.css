@@ -841,7 +841,8 @@ ul.menu-tags {
     margin-top: 15px;
 }
 
-.contacts h2 {
+.contacts h3 {
+    font-size: 1.5rem;
     color: #293743;
     text-align: center;
 }
