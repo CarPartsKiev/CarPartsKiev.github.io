@@ -71,6 +71,12 @@ html {
     .icon.google {
         background-position: -744px 0;
     }
+    .icon.twitter {
+        background-position: -576px -66px;
+    }
+    .icon.vk {
+        background-position: -602px -67px;
+    }
 
     
     /*---large icons-*/
